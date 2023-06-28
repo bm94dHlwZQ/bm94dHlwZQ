@@ -1,4 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js"></script>
 <script>
 // CONSTANTS
 const CELL_SIZE = 40; // size of each cell in the grid
